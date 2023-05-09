@@ -85,8 +85,8 @@ public class Main {
         for (int i = 1; i <= secondResult ; i++) {
             g = g + i;
         }
-        System.out.println(g);*/
-
+        System.out.println(g);
+        System.out.println();*/
 
 /*//4.Необходимо, чтоб программа выводила на экран вот такую последовательность: 7 14 21 28 35 42 49 56 63 70 77 84 91 98.
 //В решении используйте цикл while.
@@ -108,6 +108,7 @@ public class Main {
             num = num - 5;
         }
         System.out.println("This is end!");*/
+
         //6.Составьте программу, выводящую на экран квадраты чисел от 10 до 20 включительно.
         for (int x = 10; x <= 20 ; x++) {
             System.out.println(Math.pow(x, 2));
